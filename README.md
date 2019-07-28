@@ -1,4 +1,4 @@
-# Voting_over_AzureBlockchain
+# Voting mechanism to be implemented on AzureBlockchain
 We want an electronic voting system using blockchain that is a secure and robust system that ensures anonymity of the voter, is transparent in it’s working, and has robust functioning.
 
 We introduce a trusted third party (TTP) into the blockchain network which would enable voter anonymity. 
