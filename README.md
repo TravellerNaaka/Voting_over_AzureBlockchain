@@ -23,3 +23,4 @@ TTP determines if the hash of the secret message and the reference number is pre
 
 If X tries to vote for the same candidate or any other candidate by entering his secret message and reference number, TTP will check if voter IDash is already present in its database. If it’s present, it means that X is trying to vote for the second time and the system will prevent that.
 
+!(C:\Users\kanav\Pictures\Screenshots)
